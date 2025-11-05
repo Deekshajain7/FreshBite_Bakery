@@ -1,0 +1,11 @@
+product_name,category,total_spoiled,avg_spoilage_rate_pct
+Sourdough Bread,Bread,2260.0,inf
+Apple Pie Slice,Pie,1219.0,inf
+Sandwich - Veggie,Sandwich,1217.0,16.64
+Pain au Chocolat,Pastry,1205.0,inf
+Eclair,Pastry,1198.0,inf
+French Bread,Bread,1190.0,inf
+Bagel - Plain,Bagel,1163.0,inf
+Carrot Cake Slice,Cake,1163.0,inf
+Danish Pastry,Pastry,1156.0,inf
+Chocolate Cake Slice,Cake,1154.0,inf

@@ -1,0 +1,16 @@
+product_name,category,total_spoiled,waste_cost,total_sold,waste_to_sales_ratio
+Sandwich - Veggie,Sandwich,355364.0,1293524.96,158268,2.25
+Whole Wheat Bread,Bread,292924.0,1004729.32,131990,2.22
+French Bread,Bread,336770.0,1091134.8,155660,2.16
+Bagel - Sesame,Bagel,306816.0,211703.04,147050,2.09
+Multigrain Bread,Bread,320880.0,725188.8,156520,2.05
+Gluten Free Bread,Bread,306152.0,303090.48,150768,2.03
+Vanilla Cupcake,Cupcake,308655.0,379645.65,153768,2.01
+Banana Bread,Bread,315100.0,182758.0,158040,1.99
+Red Velvet Cupcake,Cupcake,261648.0,353224.8,131769,1.99
+Sourdough Bread,Bread,4454922.0,13865212.4,2245056,1.98
+Chocolate Chip Muffin,Muffin,323106.0,1075942.98,165760,1.95
+Fruit Tart,Pastry,350594.0,539914.76,180774,1.94
+Chocolate Chip Cookie,Cookie,2056756.0,5347565.6,1063208,1.93
+Cinnamon Roll,Pastry,278040.0,202969.2,144324,1.93
+Dinner Roll,Bread,300850.0,267756.5,155806,1.93

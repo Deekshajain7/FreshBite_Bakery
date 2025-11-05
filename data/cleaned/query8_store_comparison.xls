@@ -1,0 +1,4 @@
+store_location,total_spoiled,avg_spoilage_rate,total_sold,unique_products,total_waste_cost
+Eastside,2643209.0,inf,1353365,45,6302915.78
+Westside,2526684.0,inf,1328693,45,6180066.0
+Downtown,2580531.0,inf,1361961,45,6161670.54

@@ -1,0 +1,3 @@
+day_type,total_spoiled,avg_spoilage_rate_pct,record_count
+Weekday,35420.0,inf,11763
+Weekend,14310.0,inf,4674

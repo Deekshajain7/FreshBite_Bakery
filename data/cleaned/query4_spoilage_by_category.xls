@@ -1,0 +1,12 @@
+category,total_spoiled,avg_spoilage_rate_pct,total_waste_cost,product_count
+Bread,17305.0,inf,42656.52,16
+Pastry,8953.0,inf,16652.31,8
+Cookie,4432.0,inf,9336.41,4
+Sandwich,3449.0,inf,8481.02,3
+Bagel,3403.0,inf,7034.24,3
+Pie,2366.0,inf,3472.21,2
+Cake,2317.0,inf,9513.76,2
+Cupcake,2187.0,inf,2822.49,2
+Bar,2138.0,inf,4318.82,2
+Muffin,2122.0,inf,6626.37,2
+Savory,1058.0,inf,2623.84,1
